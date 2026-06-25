@@ -10,7 +10,7 @@ This tutorial outlines the process of assigning security groups to users in Entr
 - Windows 11
 <h2>Users Created</h2>
 <p>
-  <img width="1717" height="695" alt="image" src="https://github.com/user-attachments/assets/8bd44ad1-078f-42cc-84d0-8811f6d23552" />
+  <img width="1438" height="587" alt="Screen Shot 2026-06-25 at 1 37 54 PM" src="https://github.com/user-attachments/assets/667461a0-5877-4268-9939-065890857d38" />
 
 </p>
 <p>
@@ -18,7 +18,7 @@ Assigned HR-Staff-SecGroup to user Chris Walker.
 </p>
 <br />
 <p>
-  <img width="1729" height="700" alt="image" src="https://github.com/user-attachments/assets/17973f85-ad17-49cb-9b2d-f30b702b1c7e" />
+  <img width="1439" height="585" alt="Screen Shot 2026-06-25 at 1 37 11 PM" src="https://github.com/user-attachments/assets/59f84d3b-e8ec-44c0-9e8e-44aa0c9c172d" />
 
 </p>
 <p>
